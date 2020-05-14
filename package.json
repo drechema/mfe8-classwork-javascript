@@ -1,0 +1,22 @@
+{
+  "name": "mfe8-classwork-javascript",
+  "version": "1.0.0",
+  "description": "Module 2 classwork for Master Frontend Lemoncode",
+  "keywords": [
+    "lemoncode",
+    "master",
+    "javascript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "author": "David Reche",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server -c bs-config.json"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "peerDependencies": {},
+  "devDependencies": {}
+}

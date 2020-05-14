@@ -1,5 +1,13 @@
 # Ejercicios entregables modulo2
 
+## Testing the exercises 
+
+```bash
+npm start
+```
+
+Then you'll get a web page where you can view the javascript code and start a test. All the tests throw some messages at javascript console.
+
 ## 1. Array operations
 
 ### Head

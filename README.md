@@ -6,7 +6,7 @@
 npm start
 ```
 
-Then you'll get a web page where you can view the javascript code and start a test. All the tests throw some messages at javascript console.
+Then you'll get a web page where you can view the javascript code and start a test. All the tests throw some messages at javascript console. I useed a adapted version of the JS playground in this [Repo](https://github.com/Lemoncode/language-sessions)
 
 ## 1. Array operations
 
@@ -140,11 +140,11 @@ y reiniciar las monedas almacenadas, ya que las hemos conseguido y han salido de
 Ejemplo de uso
 
 ```javascript
-class SlothMachine {
+class SlotMachine {
   /* ... */
 }
 
-const machine1 = new SlothMachine();
+const machine1 = new SlotMachine();
 machine1.play(); // "Good luck next time!!"
 machine1.play(); // "Good luck next time!!"
 machine1.play(); // "Congratulations!!!. You won 3 coins!!"

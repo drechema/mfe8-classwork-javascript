@@ -6,7 +6,7 @@
 npm start
 ```
 
-Then you'll get a web page where you can view the javascript code and start a test. All the tests throw some messages at javascript console. I useed a adapted version of the JS playground in this [Repo](https://github.com/Lemoncode/language-sessions)
+Then you'll get a web page where you can view the javascript code and start a test. All the tests throw some messages at javascript console. I have used a adapted version of the JS playground from this [LemomCode Repo](https://github.com/Lemoncode/language-sessions)
 
 ## 1. Array operations
 
